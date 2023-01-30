@@ -3,16 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Giraffe
+  - Elephant
+  - UIBuddy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Animal
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - butt
   - 
   - 
   - 
